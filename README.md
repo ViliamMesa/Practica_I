@@ -1,4 +1,4 @@
-# Practica1
+# Practica_I
 Práctica 1 de la materia Lenguajes y Paradigmas de la Computación. Creado por Viliam Sofía Mesa Angarita y Samuel Quintero Escobar.
 Plataformas usadas para el desarrollo del programa: Intellij IDEA y Visual Studio Code.
 
